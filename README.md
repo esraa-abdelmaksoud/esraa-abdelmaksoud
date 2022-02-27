@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Esraa Abdelmaksoud
-- 👀 I’m interested in AI and Data Analysis
+- 👀 I’m interested in AI in python
 - 🌱 I’m currently getting into the deep oceans of NLP
 - 💞️ I’m looking to collaborate on NLP projects, especially in healthcare
 - 📫 You can find me on LinkedIn https://www.linkedin.com/in/esraaabdelmaksoud/
