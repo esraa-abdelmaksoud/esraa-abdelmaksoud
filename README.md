@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Esraa Abdelmaksoud
 - 🎓 I hold a professional master's degree in software engineering and a bachelor's in business
-- 👀 I’m interested in AI in python
+- 👀 I’m interested in machine learning in python
 - 💞️ I’m looking to collaborate on projects in Python, especially in healthcare
 - 📫 You can find me on LinkedIn https://www.linkedin.com/in/esraaabdelmaksoud/
 
